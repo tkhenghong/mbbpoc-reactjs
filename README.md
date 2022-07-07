@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Reference:
-* https://codingwithmanny.medium.com/deploying-reactjs-with-docker-ac16728c0896
+* [How to deploy a React application to production with Docker multi-stage builds](https://medium.com/thepeaklab/how-to-deploy-a-react-application-to-production-with-docker-multi-stage-builds-4da347f2d681)
 
 ## Available Scripts
 
